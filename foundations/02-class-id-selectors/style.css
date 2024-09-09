@@ -1,0 +1,26 @@
+/* styles.css */
+
+.odd
+{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* I can use only special, omitting odd*/
+.special
+{
+    font-size: 24px;
+}
+
+#two
+{
+    color: blue;
+    font-size: 36px;
+}
+
+#four
+{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
